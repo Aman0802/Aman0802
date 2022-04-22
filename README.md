@@ -4,7 +4,7 @@ Hi 👋 My name is Aman Khubani
 Full Stack Developer
 --------------------
 
-I’m a tech enthusiast who aims to convert one’s thoughts and ideas into reality! Interested in devising a better problem‑solving method for chal‑ lenging tasks, and learning new technologies and tools if the need arises. Currently enjoying creating wonders through javascript and its frame‑ works
+I’m a tech enthusiast who aims to convert one’s thoughts and ideas into reality! Interested in devising a better problem‑solving method for chal‑ lenging tasks, and learning new technologies and tools. Currently enjoying creating wonders through Javascript and Blockchain.
 
 * 🌍  I'm based in Indore, India
 * 🖥️  See my portfolio at [My Portfolio](http://amankhubani.com)
